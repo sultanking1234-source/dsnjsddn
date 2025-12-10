@@ -7,3 +7,8 @@ for i=1 to 100
 read customer account data in every month
 print
 end for 
+if customer is leglar then 
+allow 2000omr loan 
+elso
+no loan
+endif
